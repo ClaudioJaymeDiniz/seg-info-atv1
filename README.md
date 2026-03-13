@@ -6,7 +6,7 @@ No terminal crie um arquivo exemplo:
 nano exemplo.sh
 ----------------
 cole o script e salve o arquivo, com nano:
-ctlr+o > enter > ctrl+x
+ctrl+o > enter > ctrl+x
 
 Criar permissão para o arquivo:
 chmod +x nome-do-arquivo.sh
