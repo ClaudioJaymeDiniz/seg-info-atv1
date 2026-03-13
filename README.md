@@ -12,4 +12,10 @@ Criar permissão para o arquivo:
 chmod +x nome-do-arquivo.sh
 
 Para rodar :
+---------------
 sudo ./nome-do-arquivo.sh
+---------------
+ou
+---------------
+sudo watch -d -n 2 ./seu_script.sh
+---------------
